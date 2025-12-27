@@ -21,6 +21,9 @@ import com.example.demo.model.Paquete;
 import com.example.demo.model.Ruta;
 import com.example.demo.model.Solicitud;
 import com.example.demo.repository.CentroRepository;
+import com.example.demo.repository.MensajeroRepository;
+import com.example.demo.repository.PaqueteRepository;
+import com.example.demo.repository.RutaRepository;
 import com.example.demo.repository.SolicitudRepository;
 
 @Service
